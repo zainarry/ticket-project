@@ -45,6 +45,4 @@ The dataset used in this project includes:
 - Build a more interactive dashboard  
 - Expand analysis with additional datasets  
 
-## 👤 Author
-Your Name  
-[Optional: LinkedIn profile link]v
+
